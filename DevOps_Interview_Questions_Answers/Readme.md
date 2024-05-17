@@ -1,5 +1,6 @@
+<h2 align="left">Top 10 DevOps interview questions with answers</h2>
 
-#Top 10 DevOps interview questions with answers#
+
 
 1. What is DevOps? ♾️
 - Answer: DevOps is a set of practices combining development and IT operations to shorten the development lifecycle, emphasizing collaboration, automation, and continuous delivery.
