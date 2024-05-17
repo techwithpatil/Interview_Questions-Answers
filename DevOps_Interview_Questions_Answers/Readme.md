@@ -18,7 +18,7 @@
 - Answer: IaC manages infrastructure using code, enabling version control and consistent environments, with tools like Terraform and CloudFormation.
 
 6. What is the role of automation in DevOps?
-Answer: Automation eliminates manual processes, increases efficiency, reduces errors and enables consistent and repeatable tasks across the development and deployment lifecycle
+- Answer: Automation eliminates manual processes, increases efficiency, reduces errors and enables consistent and repeatable tasks across the development and deployment lifecycle
 
 7. What are microservices, and how do they relate to DevOps?
 - Answer: Microservices are small, independent services that make applications easier to develop and deploy frequently, aligning well with DevOps principles.
